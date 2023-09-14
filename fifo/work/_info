@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Windows\System32
+vfifo_buffer
+Z1 I^ZM26TcJ3CC[?NR7S=OP20
+Z2 VmEXc@Yl2IRGL@ojR1AM3Y0
+Z3 dD:\study\digital\verilog codes\mycodes\uart\fifo
+Z4 w1694026421
+Z5 8D:/study/digital/verilog codes/mycodes/uart/fifo/fifo.v
+Z6 FD:/study/digital/verilog codes/mycodes/uart/fifo/fifo.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 U@:o13I5_3@e?oE012B1e2
+Z10 !s108 1694026423.899000
+Z11 !s107 D:/study/digital/verilog codes/mycodes/uart/fifo/fifo.v|
+Z12 !s90 -reportprogress|300|-work|work|D:/study/digital/verilog codes/mycodes/uart/fifo/fifo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfifo_tb
+!i10b 1
+!s100 L@52lm2_AdOiTo5H8@aeM1
+IbljUezDF;_S6OilXF3T<o0
+V]Q<aKfS;8NOI82HLeWC>?0
+R3
+w1694026523
+8D:/study/digital/verilog codes/mycodes/uart/fifo/fifo_tb.v
+FD:/study/digital/verilog codes/mycodes/uart/fifo/fifo_tb.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1694646376.035000
+!s107 D:/study/digital/verilog codes/mycodes/uart/fifo/fifo_tb.v|
+!s90 -reportprogress|300|-work|work|D:/study/digital/verilog codes/mycodes/uart/fifo/fifo_tb.v|
+!s101 -O0
+R8
+vuart
+Z13 IkeLPX]3SZ3584hlbU;l971
+Z14 VJb9aWZHU3H[dnEMM;K@Ke3
+R3
+Z15 w1694046588
+Z16 8D:/study/digital/verilog codes/mycodes/uart/uart.v
+Z17 FD:/study/digital/verilog codes/mycodes/uart/uart.v
+L0 1
+R7
+r1
+31
+R8
+!i10b 1
+Z18 !s100 4h2nc:0QWPo3UCF7B24FM0
+!s85 0
+Z19 !s108 1694046607.696000
+Z20 !s107 D:/study/digital/verilog codes/mycodes/uart/uart.v|
+Z21 !s90 -reportprogress|300|-work|work|D:/study/digital/verilog codes/mycodes/uart/uart.v|
+!s101 -O0

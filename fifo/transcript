@@ -1,0 +1,25 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile {D:/study/digital/verilog codes/mycodes/uart/fifo/fifo_tb.v} 
+# Load canceled
+vlog -reportprogress 300 -work work {D:/study/digital/verilog codes/mycodes/uart/fifo/fifo_tb.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module fifo_tb
+# 
+# Top level modules:
+# 	fifo_tb
+vsim -gui work.fifo_tb
+# vsim -gui work.fifo_tb 
+# Loading work.fifo_tb
+# Loading work.fifo_buffer
+add wave -position insertpoint sim:/fifo_tb/*
+run -all
+# Break in Module fifo_tb at D:/study/digital/verilog codes/mycodes/uart/fifo/fifo_tb.v line 27
+quit -sim
+vsim -gui work.fifo_tb
+# vsim -gui work.fifo_tb 
+# Loading work.fifo_tb
+# Loading work.fifo_buffer
+add wave -position insertpoint sim:/fifo_tb/dut/*
+run -all
+# Break in Module fifo_tb at D:/study/digital/verilog codes/mycodes/uart/fifo/fifo_tb.v line 27
+quit -sim
